@@ -1,0 +1,67 @@
+Menu : 
+1. Login
+0. Exit
+jika 1 :
+masukan username
+masukan password
+Anda berhasil login
+jika username = admin dan pw = admin
+
+menu admin : 
+1. Register pegawai
+2. Detele 
+
+jika 1 : 
+masukan username pegawai
+masukan password pegawai
+
+jika 2 :
+show data pegawai
+	delete data pegawai
+show data barang
+	delete data barang
+apa admin bisa melakukan apa yang dilakukan pegawai (?)
+
+Menu : 
+1. Login
+0. Exit
+
+jika 1 :
+masukan username 
+masukan password
+
+jika username != admin dan password != admin
+maka keluar
+
+menu pegawai:
+1. Database management
+	jika 1 :
+		1. tambah barang to system
+		2. edit informasi
+		3. edit stock
+		4. tambah customer
+		5. show list semua barang
+
+2. Transaksi
+	Jika 2 :
+		1. Tambah barang ke keranjang
+			show semua barang
+			pilih barang yang ingin dibeli
+			
+		2. show barang di keranjang
+		3. checkout
+			masukan nama barang yang dibeli
+			masukan jumlah barang yang dibeli
+			masukan nomor handphone
+			nama pegawai otomatis dari login 
+			create_date
+		
+
+
+
+
+		
+
+
+
+
